@@ -1,0 +1,9 @@
+html{background-color: darkgoldenrod;}
+    h1 {background-color: blue;
+    color: olive;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    }
+    a:hover{
+        color: chartreuse;
+    }
